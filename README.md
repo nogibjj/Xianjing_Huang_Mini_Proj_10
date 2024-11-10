@@ -1,5 +1,5 @@
 # Xianjing_Huang_Mini_Proj_10
-[![CI](https://github.com/nogibjj/Xianjing_Huang_Mini_Proj_1/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/Xianjing_Huang_Mini_Proj_1/actions/workflows/ci.yml)
+[![CI](https://github.com/nogibjj/Xianjing_Huang_Mini_Proj_10/actions/workflows/ci.yml/badge.svg)](https://github.com/nogibjj/Xianjing_Huang_Mini_Proj_10/actions/workflows/ci.yml)
 
 ### Directory Tree Structure
 ```
@@ -24,7 +24,7 @@ Xianjing_Huang_Mini_Proj_10/
 ├── setup.sh
 └── test_main.py
 ```
-`.devcontainer`: config for a Python and PySpark environment
+`.devcontainer`: config for a Python and PySpark environment.
 
 `lib.py`: 
 * start a spark session via `start`
